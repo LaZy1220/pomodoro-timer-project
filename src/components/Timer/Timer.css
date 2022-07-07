@@ -9,7 +9,7 @@ button{
     width: 100px;
     cursor: pointer;
 }
-button.with-text{
+button.settings-btn{
     width: auto;
     background-color: rgba(255,255,255,0.1);
     border-radius: 10px;
@@ -17,7 +17,7 @@ button.with-text{
     font-size: 1.4rem;
     line-height: 36px;
 }
-button.with-text svg{
+button.settings-btn svg{
     width: 36px;
     float: left;
     margin-right: 7px;

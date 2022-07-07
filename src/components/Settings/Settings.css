@@ -1,0 +1,30 @@
+.settings{
+    text-align: left;
+}
+label{
+    display: block;
+    margin: 20px 0 10px 0;
+
+}
+.slider{
+    height: 40px;
+    border-radius: 20px;
+}
+.thumb{
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 15px;
+}
+.thumb.green{
+    background-color:green;
+}
+.slider.green{
+    border: 2px solid green;
+}
+.slider.red{
+    border: 2px solid red;
+}
+.thumb.red{
+    background-color:red;
+}
