@@ -17,14 +17,14 @@ label{
     border-radius: 15px;
 }
 .thumb.green{
-    background-color:green;
+    background-color:#23bf20;
 }
 .slider.green{
-    border: 2px solid green;
+    border: 2px solid #23bf20;
 }
 .slider.red{
-    border: 2px solid red;
+    border: 2px solid #d43737;
 }
 .thumb.red{
-    background-color:red;
+    background-color:#d43737;
 }
